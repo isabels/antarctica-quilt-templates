@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.16204811"
-     inkscape:cx="2591.8229"
-     inkscape:cy="2440.6332"
+     inkscape:zoom="0.43265711"
+     inkscape:cx="2419.9302"
+     inkscape:cy="622.89511"
      inkscape:window-width="1728"
      inkscape:window-height="1052"
      inkscape:window-x="0"
@@ -134,5 +134,11 @@
        d="M 635,38.456567 V 153.15551 a 481.84427,481.84427 0 0 1 124.71022,16.41864 L 789.39678,58.782975 A 596.54358,596.54358 0 0 0 635,38.456567 Z"
        style="fill:none;stroke:#000000;stroke-width:0.712814"
        id="path15" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.42394;stroke-dasharray:none;stroke-opacity:1"
+       id="path63"
+       cx="706.10077"
+       cy="101.27334"
+       r="36.888031" />
   </g>
 </svg>
