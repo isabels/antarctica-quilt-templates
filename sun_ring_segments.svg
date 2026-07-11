@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="sun_ring_segments.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="0.45447726"
+     inkscape:cx="387.2581"
+     inkscape:cy="540.18104"
+     inkscape:window-width="1728"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 28.049118,17.336722 43.020333,131.05438 a 481.84427,481.84427 0 0 1 125.786407,2.4e-4 L 183.77818,17.336409 a 596.54358,596.54358 0 0 0 -155.729062,3.13e-4 z"
+       style="fill:none;stroke:#000000;stroke-width:0.07;stroke-dasharray:none"
+       id="path15" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.07;stroke-dasharray:none;stroke-opacity:1"
+       id="path63"
+       cx="105.91365"
+       cy="69.548904"
+       r="36.888031" />
+    <path
+       d="m 29.784286,148.38513 14.971215,113.71766 a 481.84427,481.84427 0 0 1 125.786399,2.4e-4 l 14.97144,-113.71821 a 596.54358,596.54358 0 0 0 -155.729054,3.1e-4 z"
+       style="fill:none;stroke:#000000;stroke-width:0.07;stroke-dasharray:none"
+       id="path15-1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.07;stroke-dasharray:none;stroke-opacity:1"
+       id="path63-9"
+       cx="107.64882"
+       cy="200.59732"
+       r="36.888031" />
+  </g>
+</svg>
