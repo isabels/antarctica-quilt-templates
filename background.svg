@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1166502"
-     inkscape:cx="293.28792"
-     inkscape:cy="743.74233"
+     inkscape:zoom="0.54819099"
+     inkscape:cx="373.04517"
+     inkscape:cy="570.0568"
      inkscape:window-width="1728"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="65"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="g4263" />
   <defs
      id="defs1" />
   <g
@@ -350,9 +350,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3411" />
       <path
-         d="M 1170.22 0 L 1166.92 34.8684"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3412" />
+         d="m 1170.22,0 24.1887,24.09876"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3412"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 900.271 0 L 903.69 53.1273"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -378,9 +379,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3418" />
       <path
-         d="M 1113.38 48.3176 L 1166.92 34.8684"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3419" />
+         d="m 1113.38,48.3176 81.0287,-24.21884"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3419"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 740.83 0 L 745.154 34.453"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -398,9 +400,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3423" />
       <path
-         d="M 1308.06 0 L 1312.26 31.5006"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3424" />
+         d="m 1308.06,0 -3.8947,16.86691"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3424"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 571.996 19.0188 L 606.222 35.8808"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -446,10 +449,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3435" />
       <path
-         d="M 1312.26 31.5006 L 1327.72 47.85"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3436" />
-      <path
          d="M 514.548 51.3195 L 509.259 58.1589"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3437" />
@@ -490,10 +489,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3446" />
       <path
-         d="M 1166.92 34.8684 L 1178.53 65.3039"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3447" />
-      <path
          d="M 1077.66 26.817 L 1099.09 66.2034"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3448" />
@@ -505,10 +500,6 @@
          d="M 354.861 0 L 358.73 50.0368"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3450" />
-      <path
-         d="M 1327.72 47.85 L 1322.28 83.9165"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3451" />
       <path
          d="M 786.578 64.8786 L 799.827 75.7384"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -523,9 +514,10 @@
          id="path3454"
          sodipodi:nodetypes="cc" />
       <path
-         d="M 151.499 56.0686 L 210.31 0"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3455" />
+         d="M 192.19622,41.024958 210.31,0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3455"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 268.593 49.4591 L 356.581 55.1793"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -628,33 +620,18 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3480" />
       <path
-         d="M 1230.95 0 L 1238.08 77.3217"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3481" />
-      <path
-         d="M 1238.08 77.3217 L 1312.26 31.5006"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3482" />
+         d="m 1262.5624,0 11.0912,8.953352"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3481"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1097.91 72.296 L 1103.65 86.9707"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3483" />
       <path
-         d="M 1322.28 83.9165 L 1325.08 103.36"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3484" />
-      <path
          d="M 907.92 101.833 L 940.621 75.7229"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3485" />
-      <path
-         d="M 1238.08 77.3217 L 1236.21 81.5825"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3486" />
-      <path
-         d="M 1236.21 81.5825 L 1322.28 83.9165"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3487" />
       <path
          d="M 462.479 74.0993 L 461.643 88.8427"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -676,13 +653,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3492" />
       <path
-         d="M 1178.53 65.3039 L 1234.14 84.8886"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3493" />
-      <path
-         d="M 1236.21 81.5825 L 1234.14 84.8886"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3494" />
+         d="M 1163.9042,99.52652 1138.51,126.777"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3493"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 665.755 53.8268 L 707.013 94.9813"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -720,9 +694,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3503" />
       <path
-         d="M 1130.45 103.33 L 1178.53 65.3039"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3504" />
+         d="m 1130.45,103.33 33.4542,-3.80348"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3504"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 923.566 119.133 L 977.667 116.521"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -781,9 +756,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3519" />
       <path
-         d="M 1325.08 103.36 L 1371.6 123.148"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3520" />
+         d="m 1363.236,117.75583 8.364,5.39217"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3520"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 799.827 75.7384 L 802.849 125.558"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -797,9 +773,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3526" />
       <path
-         d="M 171.953 95.9738 L 247.286 118.544"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3527" />
+         d="M 207.64197,117.79083 247.286,118.544"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3527"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 877.917 102.604 L 878.211 151.514"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -812,18 +789,6 @@
          d="M 977.672 116.523 L 978.951 147.014"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3530" />
-      <path
-         d="M 1234.14 84.8886 L 1238.03 120.518"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3531" />
-      <path
-         d="M 1138.51 126.777 L 1169.16 143.636"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3532" />
-      <path
-         d="M 1169.16 143.636 L 1238.03 120.518"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3533" />
       <path
          d="M 923.566 119.133 L 927.082 157.38"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -845,14 +810,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3538" />
       <path
-         d="M 1371.6 128.744 L 1343.05 161.589"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3539" />
-      <path
-         d="M 1343.05 161.589 L 1343.43 163.762"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3540" />
-      <path
          d="M 978.951 147.014 L 987.769 158.33"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3541" />
@@ -860,14 +817,6 @@
          d="M 987.769 158.33 L 1017.2 146.602"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3542" />
-      <path
-         d="M 151.499 56.0686 L 149.898 100.857"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3543" />
-      <path
-         d="M 149.898 100.857 L 171.953 95.9738"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3544" />
       <path
          d="M 284.138 153.767 L 335.652 163.322"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -913,14 +862,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3555" />
       <path
-         d="M 1267.79 148.341 L 1325.08 103.36"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3556" />
-      <path
-         d="M 1267.79 148.341 L 1343.05 161.589"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3557" />
-      <path
          d="M 1016.17 183.289 L 1058.14 177.675"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3558" />
@@ -929,37 +870,14 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3559" />
       <path
-         d="M 1238.03 120.518 L 1262.45 149.986"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3560" />
-      <path
-         d="M 1262.45 149.986 L 1267.79 148.341"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3561" />
-      <path
-         d="M 1262.45 149.986 L 1262.41 150.508"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3562" />
-      <path
          d="M 1106.49 165.072 L 1120.43 192.366"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3563" />
       <path
-         d="M 186.243 179.075 L 267.605 165.256"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3564" />
-      <path
-         d="M 126.497 120.395 L 149.898 100.857"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3565" />
-      <path
-         d="M 126.497 120.395 L 186.243 179.075"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3566" />
-      <path
-         d="M 120.377 122.022 L 126.497 120.395"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3568" />
+         d="M 177.08488,192.60396 267.605,165.256"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3564"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 878.211 151.514 L 906.546 184.904"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -969,9 +887,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3570" />
       <path
-         d="M 1169.16 143.636 L 1170.35 194.745"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3571" />
+         d="M 1179.2973,175.67776 1170.35,194.745"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3571"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1120.43 192.366 L 1127.52 201.153"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -994,13 +913,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3576" />
       <path
-         d="M 1343.43 163.762 L 1305.78 208.31"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3577" />
-      <path
-         d="M 1305.78 208.31 L 1324.3 213.093"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3578" />
+         d="m 1273.5,246.657 50.8,-33.564"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3578"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1060.89 207.271 L 1064.46 212.195"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1022,33 +938,18 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3583" />
       <path
-         d="M 1343.43 163.762 L 1361.76 207.605"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3584" />
-      <path
          d="M 1064.46 212.195 L 1067.42 218.475"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3585" />
-      <path
-         d="M 120.377 122.022 L 99.9851 168.613"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3586" />
-      <path
-         d="M 1262.41 150.508 L 1286.23 207.13"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3587" />
-      <path
-         d="M 1286.23 207.13 L 1305.78 208.31"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3588" />
       <path
          d="M 1177.18 200.973 L 1198.89 213.85"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3589" />
       <path
-         d="M 1198.89 213.85 L 1262.41 150.508"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3590" />
+         d="m 1198.89,213.85 24.0322,-14.04917"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3590"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1177.18 200.973 L 1145.88 241.807"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1057,14 +958,6 @@
          d="M 267.605 165.256 L 271.739 211.762"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3592" />
-      <path
-         d="M 52.0909 191.275 L 79.9994 189.528"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3593" />
-      <path
-         d="M 99.9851 168.613 L 79.9994 189.528"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3594" />
       <path
          d="M 802.849 125.558 L 775.947 175.878"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1078,9 +971,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3597" />
       <path
-         d="M 186.243 179.075 L 205.901 220.411"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3598" />
+         d="M 177.08488,192.60396 205.901,220.411"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3598"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1067.42 218.475 L 1097.43 235.859"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1094,9 +988,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3601" />
       <path
-         d="M 99.9851 168.613 L 145.452 244.024"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3602" />
+         d="M 97.892569,208.36398 145.452,244.024"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3602"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 145.452 244.024 L 195.412 229.467"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1122,9 +1017,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3608" />
       <path
-         d="M 79.9994 189.528 L 70.5407 234.797"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3609" />
+         d="M 67.328238,199.83583 70.5407,234.797"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3609"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 70.5407 234.797 L 71.7966 239.509"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1166,9 +1062,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3619" />
       <path
-         d="M 1286.23 207.13 L 1273.5 246.657"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3620" />
+         d="M 1253.4866,208.32898 1273.5,246.657"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3620"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 245.354 237.364 L 246.464 247.824"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1358,9 +1255,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3667" />
       <path
-         d="M 1327.72 47.85 L 1371.6 50.9227"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3668" />
+         d="M 1347.7902,40.98996 1371.6,50.9227"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3668"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 71.5842 325.383 L 107.881 328.931"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1370,9 +1268,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3670" />
       <path
-         d="M 1361.76 207.605 L 1371.6 212.671"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3671" />
+         d="M 1332.6789,192.56896 1371.6,212.671"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3671"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 107.881 328.931 L 110.063 328.415"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -1638,9 +1537,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3737" />
       <path
-         d="M 0 205.148 L 52.0909 191.275"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3739" />
+         d="m 0,205.148 67.328238,-5.31217"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3739"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 48.6159 507.508 L 71.6678 488.849"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2663,13 +2563,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3994" />
       <path
-         d="M 88.4131 1141.96 L 106.62 1154.23"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3995" />
-      <path
-         d="M 106.62 1154.23 L 143.078 1122.54"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path3996" />
+         d="M 118.02462,1164.5824 143.078,1122.54"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path3996"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 553.808 715.806 L 525.95 1055.49"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2683,9 +2580,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path3999" />
       <path
-         d="M 1286.76 1122.35 L 1330.43 1167.54"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4000" />
+         d="m 1286.76,1122.35 32.5849,33.719"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4000"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1042.82 1180.12 L 1066.34 1196.06"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2727,13 +2625,15 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4010" />
       <path
-         d="M 152.05 1121.25 L 182.139 1196.7"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4011" />
+         d="m 152.05,1121.25 -3.51369,51.2459"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4011"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 182.139 1196.7 L 211.858 1182.58"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4012" />
+         d="M 192.16122,1196.619 211.858,1182.58"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4012"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1042.82 1180.12 L 1017.43 1206.84"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2754,10 +2654,6 @@
          d="M 335.854 1171.26 L 355.447 1190.55"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4017" />
-      <path
-         d="M 173.086 1204.21 L 182.139 1196.7"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4018" />
       <path
          d="M 1113.21 1200.39 L 1101.93 1225.32"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2799,13 +2695,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4028" />
       <path
-         d="M 1330.43 1167.54 L 1295.26 1210.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4029" />
-      <path
-         d="M 160.252 1211.37 L 173.086 1204.21"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4030" />
+         d="m 1319.3449,1156.069 -15.144,16.4625"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4029"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 975.605 1187.51 L 984.226 1214.07"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2818,10 +2711,6 @@
          d="M 808.643 1082.43 L 949.089 1160.75"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4033" />
-      <path
-         d="M 1295.26 1210.84 L 1299.43 1221.13"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4034" />
       <path
          d="M 279.264 1228.68 L 285.207 1230.36"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2867,29 +2756,20 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4045" />
       <path
-         d="M 1191.32 1148.42 L 1212.62 1193.07"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4046" />
+         d="m 1191.32,1148.42 3.1243,31.3434"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4046"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 1263.82 1130.38 L 1212.62 1193.07"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4047" />
+         d="m 1263.82,1130.38 -69.3757,49.3834"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4047"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 1299.43 1221.13 L 1291.31 1244.02"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4048" />
-      <path
-         d="M 1212.62 1193.07 L 1212.4 1195.06"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4049" />
-      <path
-         d="M 1212.4 1195.06 L 1295.26 1210.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4050" />
-      <path
-         d="M 1282.21 1252.63 L 1291.31 1244.02"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4051" />
+         d="m 1286.76,1122.35 -13.0708,42.268"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4050"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1120.16 1234.27 L 1171.07 1222.98"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2898,14 +2778,6 @@
          d="M 1113.21 1200.39 L 1171.07 1222.98"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4053" />
-      <path
-         d="M 1112.58 1158.98 L 1209.82 1198.43"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4054" />
-      <path
-         d="M 1212.4 1195.06 L 1209.82 1198.43"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4055" />
       <path
          d="M 897.441 1216.96 L 900.449 1229.38"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2923,21 +2795,19 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4059" />
       <path
-         d="M 1299.43 1221.13 L 1334.99 1244.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4060" />
+         d="M 1347.8258,1196.6546 1371.6,1186.0008"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4060"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 900.449 1229.38 L 895.947 1239.91"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4061" />
       <path
-         d="M 54.5319 1225.37 L 59.7014 1223.3"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4062" />
-      <path
-         d="M 15.9656 1147.95 L 59.7014 1223.3"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4063" />
+         d="m 15.9656,1147.95 22.814072,31.7778"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4063"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 984.226 1214.07 L 994.574 1226.41"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2955,29 +2825,14 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4067" />
       <path
-         d="M 173.086 1204.21 L 225.234 1247.58"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4068" />
-      <path
-         d="M 229.532 1216.56 L 225.234 1247.58"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4069" />
+         d="m 229.532,1216.56 -6.29,56.31"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4069"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1119.73 1253.22 L 1116.23 1268.75"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4070" />
-      <path
-         d="M 1291.31 1244.02 L 1301.87 1268.95"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4071" />
-      <path
-         d="M 1301.87 1268.95 L 1334.99 1244.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4072" />
-      <path
-         d="M 1254.48 1260.68 L 1282.21 1252.63"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4073" />
       <path
          d="M 1069.15 1224.88 L 1073.75 1244.9"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -2987,13 +2842,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4075" />
       <path
-         d="M 106.62 1154.23 L 108.331 1214.55"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4076" />
-      <path
-         d="M 108.331 1214.55 L 160.252 1211.37"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4077" />
+         d="m 88.4131,1141.96 29.61152,22.6224"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4076"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1073.75 1244.9 L 1071.17 1249.01"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3047,14 +2899,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4090" />
       <path
-         d="M 59.7014 1223.3 L 100.817 1224.47"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4091" />
-      <path
-         d="M 108.331 1214.55 L 100.817 1224.47"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4092" />
-      <path
          d="M 999.11 1244.39 L 1002.03 1247.24"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4093" />
@@ -3067,13 +2911,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4095" />
       <path
-         d="M 1171.07 1222.98 L 1197.05 1228.22"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4096" />
-      <path
-         d="M 1209.82 1198.43 L 1197.05 1228.22"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4097" />
+         d="m 1171.07,1222.98 32.6316,18.6737"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4096"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1071.17 1249.01 L 1081.41 1271.58"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3091,21 +2932,9 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4101" />
       <path
-         d="M 100.817 1224.47 L 103.458 1239.18"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4102" />
-      <path
          d="M 1081.41 1271.58 L 1081.8 1275.51"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4103" />
-      <path
-         d="M 1254.48 1260.68 L 1281.51 1285.2"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4104" />
-      <path
-         d="M 1282.21 1252.63 L 1281.51 1285.2"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4105" />
       <path
          d="M 323.986 1256.84 L 366.199 1273.65"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3131,13 +2960,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4111" />
       <path
-         d="M 225.234 1247.58 L 227.125 1265.94"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4112" />
-      <path
-         d="M 227.125 1265.94 L 237.588 1261.27"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4113" />
+         d="m 223.242,1272.87 14.346,-11.6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4113"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 381.931 1260.14 L 427.5 1275.37"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3146,10 +2972,6 @@
          d="M 441.129 1259.48 L 427.5 1275.37"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4115" />
-      <path
-         d="M 103.458 1239.18 L 66.6297 1289.26"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4116" />
       <path
          d="M 759.293 1183.21 L 749.158 1194.28"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3191,29 +3013,14 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4126" />
       <path
-         d="M 227.125 1265.94 L 223.242 1272.87"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4127" />
-      <path
-         d="M 103.458 1239.18 L 121.815 1272.25"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4128" />
-      <path
          d="M 223.242 1272.87 L 247.71 1292.52"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4129" />
       <path
-         d="M 1120.2 1252.96 L 1196.61 1250.15"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4130" />
-      <path
-         d="M 1197.05 1228.22 L 1196.61 1250.15"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4131" />
-      <path
-         d="M 1281.51 1285.2 L 1285.82 1294.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4132" />
+         d="m 1120.2,1252.96 43.7398,2.2311"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4130"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 247.71 1292.52 L 258.026 1297.91"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3223,14 +3030,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4134" />
       <path
-         d="M 1196.61 1250.15 L 1197.09 1253.61"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4135" />
-      <path
-         d="M 1197.09 1253.61 L 1254.48 1260.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4136" />
-      <path
          d="M 538.81 1258.75 L 533.307 1275.49"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4137" />
@@ -3239,17 +3038,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4138" />
       <path
-         d="M 160.252 1211.37 L 205.402 1280.67"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4139" />
-      <path
-         d="M 205.402 1280.67 L 223.242 1272.87"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4140" />
-      <path
-         d="M 1081.8 1275.51 L 1127.09 1302.93"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4141" />
+         d="M 207.60697,1273.3848 223.242,1272.87"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4140"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 449.702 1254.04 L 493.952 1297.73"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3270,14 +3062,6 @@
          d="M 533.307 1275.49 L 521.83 1289.84"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4146" />
-      <path
-         d="M 1285.82 1294.84 L 1306.28 1300.8"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4147" />
-      <path
-         d="M 1301.87 1268.95 L 1306.28 1300.8"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4148" />
       <path
          d="M 868.26 1283.45 L 913.263 1304.86"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3311,14 +3095,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4156" />
       <path
-         d="M 1127.09 1302.93 L 1138.09 1303.3"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4157" />
-      <path
-         d="M 1138.09 1303.3 L 1143.72 1299.37"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4158" />
-      <path
          d="M 913.263 1304.86 L 915.177 1306.21"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4159" />
@@ -3339,9 +3115,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4163" />
       <path
-         d="M 1086.04 1319.55 L 1127.09 1302.93"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4164" />
+         d="m 1086.04,1319.55 57.68,-20.18"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4164"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 304.049 1278.13 L 314.284 1311.3"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3391,13 +3168,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4176" />
       <path
-         d="M 1143.72 1299.37 L 1193.73 1282.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4177" />
-      <path
-         d="M 1197.09 1253.61 L 1193.73 1282.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4178" />
+         d="m 1172.8171,1371.6 6.5158,-40.2576"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4177"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 0 963.505 L 31.9891 945.122"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3443,10 +3217,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4189" />
       <path
-         d="M 228.604 1343.32 L 232.261 1343.68"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4190" />
-      <path
          d="M 247.71 1292.52 L 232.261 1343.68"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4191" />
@@ -3475,41 +3245,29 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4197" />
       <path
-         d="M 121.815 1272.25 L 175.25 1313.88"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4198" />
-      <path
-         d="M 205.402 1280.67 L 175.25 1313.88"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4199" />
-      <path
          d="M 833.065 1313.6 L 848.2 1335.2"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4200" />
       <path
-         d="M 66.6297 1289.26 L 83.203 1339.45"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4201" />
+         d="m 61.956407,1371.6 5.336831,-16.1702"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4201"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 121.815 1272.25 L 83.203 1339.45"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4202" />
+         d="m 0,1256.5253 8.275204,-1.3698"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4203"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 54.5319 1225.37 L 0 1297.43"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4203" />
+         d="m 0,1338.9578 23.668319,-7.651"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4204"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 0 1307.58 L 66.6297 1289.26"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4204" />
-      <path
-         d="M 1193.73 1282.68 L 1211.1 1315.97"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4205" />
-      <path
-         d="M 1211.1 1315.97 L 1285.82 1294.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4206" />
+         d="M 1222.9578,1355.4654 1206.2505,1371.6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4205"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1003.25 1339.21 L 1018.86 1366.68"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3526,14 +3284,6 @@
          d="M 848.2 1335.2 L 835.516 1363.59"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4210" />
-      <path
-         d="M 175.25 1313.88 L 175.422 1325.45"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4211" />
-      <path
-         d="M 175.422 1325.45 L 228.604 1343.32"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4212" />
       <path
          d="M 521.83 1289.84 L 534.839 1350.34"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3599,13 +3349,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4228" />
       <path
-         d="M 232.261 1343.68 L 276.474 1357.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4229" />
-      <path
-         d="M 278.952 1352.68 L 276.474 1357.84"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4230" />
+         d="m 232.261,1343.68 46.691,9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4229"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 638.076 1307.81 L 634.817 1340.12"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3631,9 +3378,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4236" />
       <path
-         d="M 1330.43 1167.54 L 1371.6 1165.58"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4237" />
+         d="m 1319.3449,1156.069 52.2551,9.511"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4237"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 1303.8 1077.08 L 1371.6 1093.71"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3659,9 +3407,10 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4243" />
       <path
-         d="M 1138.09 1303.3 L 1119.01 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4244" />
+         d="m 1143.72,1299.37 56.9963,-23.8457"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4244"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 468.233 1361.66 L 471.102 1371.6"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
@@ -3695,10 +3444,6 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4252" />
       <path
-         d="M 0 1215.07 L 54.5319 1225.37"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4253" />
-      <path
          d="M 0,100.13 8.3102043,99.561522"
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
          id="path4254"
@@ -3708,33 +3453,40 @@
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
          id="path4255" />
       <path
-         d="M 83.203 1339.45 L 77.3466 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4256" />
+         d="m 97.857569,1363.958 -0.07042,7.642"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4256"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 175.422 1325.45 L 153.486 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4257" />
+         d="m 177.04988,1348.198 6.92379,23.402"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4257"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 1211.1 1315.97 L 1219.33 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4258" />
+         d="m 1253.5222,1363.9936 0.2394,7.6064"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4258"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 276.474 1357.84 L 278.002 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4259" />
+         d="m 278.952,1352.68 -0.95,18.92"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4259"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 1334.99 1244.68 L 1371.6 1263.52"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4260" />
+         d="M 1363.2716,1273.4204 1371.6,1263.52"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4260"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 1306.28 1300.8 L 1371.6 1346.85"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4261" />
+         d="M 1332.7145,1348.2336 1371.6,1371.6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4261"
+         sodipodi:nodetypes="cc" />
       <path
-         d="M 228.604 1343.32 L 222.82 1371.6"
-         style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
-         id="path4262" />
+         d="m 232.261,1343.68 -9.441,27.92"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+         id="path4262"
+         sodipodi:nodetypes="cc" />
       <path
          d="M 835.516 1363.59 L 835.616 1371.6"
          style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0"
